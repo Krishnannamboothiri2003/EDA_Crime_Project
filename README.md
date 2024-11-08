@@ -21,4 +21,10 @@ Visualize the dataset with various plot types.
 
 The data includes various attributes related to crimes done in India, such as:
 
-1) Reported Number
+1) Reported Number    : Number of reported Crime
+2) Date Reported      : date of reported Crime
+3) Date of Occurrence : date of Crime Occured
+4) Time of Occuurence : time of Crime Occured
+5) City               : Crime occured City
+6) Crime Code         : Unique number based code of each crime done
+7) Crime Description  : How the Crime has done
