@@ -28,3 +28,11 @@ The data includes various attributes related to crimes done in India, such as:
 5) City               : Crime occured City
 6) Crime Code         : Unique number based code of each crime done
 7) Crime Description  : How the Crime has done
+
+
+
+
+
+
+In this project, we will try to give answers to a set of questions that may be relevant when analyzing crime datas:
+
