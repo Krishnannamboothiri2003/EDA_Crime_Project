@@ -41,7 +41,7 @@ The data includes various attributes related to crimes done in India, such as:
 
 
 
-In this project, we will try to give answers to a set of questions that may be relevant when analyzing crime datas:
+**In this project, we will try to give answers to a set of questions that may be relevant when analyzing crime datas:**
 
 #1 Most case reported city 
 
