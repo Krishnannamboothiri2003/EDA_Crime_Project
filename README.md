@@ -31,7 +31,7 @@ The data includes various attributes related to crimes done in India, such as:
 8) Victim Age         : shows the age of victims
 9) Victim Gender      : shows the gender of victims
 10) Weapon Used       : which weapon is used for crime
-11) Crime Domain      :
+11) Crime Domain      : type of crime
 12) Police Deployed   : number of police investors
 13) Case Closed       : checks the case are closed or not
 14) Date Case Close   : shows the closed date of cases
